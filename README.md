@@ -93,7 +93,7 @@ Used for monitoring abnormal heart rate conditions.
 
 ![System Overview](images/system-overview.jpeg)
 
-[Watch Demo Video](demo/health-monitoring-demo.mp4)
+[▶ Watch Demo Video](demo/health-monitoring-demo.mp4)
 
 ## Future Enhancements
 - Cloud Data Storage

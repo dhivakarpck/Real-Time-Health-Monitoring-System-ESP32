@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Health Monitoring System using ESP32
 
 ## Overview
@@ -101,3 +102,7 @@ Used for monitoring abnormal heart rate conditions.
 
 ## License
 This project is licensed under the MIT License.
+=======
+# Real-Time-Health-Monitoring-System-ESP32
+Real time healthcare monitoring system using ESP32, MAX30102, BMA400, Embedded C, and Data Structures.
+>>>>>>> c8b5abe1a8870de7ec1464e5dba89276aadc2659

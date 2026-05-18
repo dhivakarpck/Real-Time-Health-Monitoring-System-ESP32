@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real-Time Health Monitoring System using ESP32
 
 ## Overview
@@ -16,9 +15,11 @@ This project presents a real-time healthcare monitoring system using ESP32, MAX3
 - Alert Monitoring System
 - I2C Communication Recovery
 
-## Hardware Components
-![Hardware Setup](images/hardware-setup.jpg)
-![System Overview](images/system-overview.jpg)
+## Hardware Setup
+
+![Hardware Setup](images/hardware-setup.jpeg)
+
+![System Overview](images/system-overview.jpeg)
 - ESP32 Dev Board
 - MAX30102 Sensor
 - BMA400 Accelerometer
@@ -30,15 +31,16 @@ This project presents a real-time healthcare monitoring system using ESP32, MAX3
 
 ## OLED Output
 
-![OLED Output 1](images/oled-output1.jpg)
+![OLED Output 1](images/oled-output1.jpeg)
 
-![OLED Output 2](images/oled-output2.jpg)
+![OLED Output 2](images/oled-output2.jpeg)
 
 ## Serial Monitor Output
 
-![Serial Monitor](images/serial-monitor-output.png)
+![Serial Monitor](images/serial-monitor-output.jpeg)
 
 ## System Architecture
+
 ![System Architecture](images/architecture-diagram.png)
 
 ## Data Structures Used
@@ -55,7 +57,8 @@ Used for storing alert history.
 Used for monitoring abnormal heart rate conditions.
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+
+![Circuit Diagram](images/Circuit_Diagram.png)
 
 ## Flowchart
 
@@ -88,7 +91,7 @@ Used for monitoring abnormal heart rate conditions.
 
 ## Demo Video
 
-![System Overview](images/system-overview.jpg)
+![System Overview](images/system-overview.jpeg)
 
 [Watch Demo Video](demo/health-monitoring-demo.mp4)
 
@@ -102,7 +105,3 @@ Used for monitoring abnormal heart rate conditions.
 
 ## License
 This project is licensed under the MIT License.
-=======
-# Real-Time-Health-Monitoring-System-ESP32
-Real time healthcare monitoring system using ESP32, MAX30102, BMA400, Embedded C, and Data Structures.
->>>>>>> c8b5abe1a8870de7ec1464e5dba89276aadc2659

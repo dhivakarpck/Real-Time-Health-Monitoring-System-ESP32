@@ -89,11 +89,9 @@ Used for monitoring abnormal heart rate conditions.
 - Web-based monitoring interface created using ESP32 Wi-Fi
 - Data structures successfully implemented for real-time processing
 
-## Demo Video
+## Demo Preview
 
-![System Overview](images/system-overview.jpeg)
-
-[▶ Watch Demo Video](demo/health-monitoring-demo.mp4)
+![Demo](images/working-demo.gif)
 
 ## Future Enhancements
 - Cloud Data Storage
